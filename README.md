@@ -1,0 +1,2 @@
+# ibm-data-analysis-course
+ Analyzing Data with Python – IBM edX Course Notebook.  This project contains my personal notebook and code from the IBM edX course Analyzing Data with Python. It includes theory notes, hands-on labs, data visualizations, and practical analysis of real datasets using Python.  The notebook documents my learning and demonstrates foundational data science skills with tools like pandas, matplotlib, seaborn, and scikit-learn.
