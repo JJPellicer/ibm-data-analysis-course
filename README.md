@@ -13,8 +13,9 @@ This repository contains my personal notebook and code developed while completin
 ## 📘 Contents
 
 - `analyzing_data_with_python.ipynb` – Full course notebook with notes, code, visualizations, and exercises
-- `data/` – (Optional) Folder for datasets used or referenced
-- `images/` – (Optional) Folder for saved plots or visual outputs
+- `Data/` – Folder for datasets used or referenced.
+- `Labs/`- Labs and practice projects completed during the course.
+- `Resources/`- Material provided by IBM as part of the course.
 
 ## 💡 Highlights
 
@@ -31,8 +32,7 @@ This repository contains my personal notebook and code developed while completin
 ## 🧑‍💻 Author
 
 Juan José Pellicer Querol  
-[LinkedIn](https://www.linkedin.com/in/juanpellicer) (if you want to include it)  
-[GitHub](https://github.com/juanchopet)
+[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-pellicer-querol/)  
 
 ## 📜 License
 
